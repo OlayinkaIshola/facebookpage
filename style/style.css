@@ -41,6 +41,7 @@ input{
     width: 120px;
     display: inline;
     margin: 4px;
+    background-color: white;
 }
 .specie{
     font-size: 10px;
